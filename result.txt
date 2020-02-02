@@ -1,0 +1,1 @@
+{"cur_ID": {"prediction": "contradiction", "ID": "-1", "truth": "None", "sent2": "the man is wearing a blue shirt .", "sent1": "a man in a black shirt is playing a guitar .", "probs": "[(u'entailment', 0.0015795395), (u'neutral', 0.0036759456), (u'contradiction', 0.99474454)]"}}

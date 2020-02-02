@@ -1,0 +1,600 @@
+Truth label: contradiction
+sentence1: 3 people walking through a small field .
+sentence2: three people at the mall .
+predictions: contradiction
+probs: entailment:0.000780209491495 neutral:0.00343554839492 contradiction:0.99578422308
+=====================
+Truth label: neutral
+sentence1: many people have painted faces at night .
+sentence2: the people are wearing costumes .
+predictions: neutral
+probs: entailment:0.213432475924 neutral:0.675777614117 contradiction:0.110789917409
+=====================
+Truth label: entailment
+sentence1: old man crafting something in his workshop .
+sentence2: an old man is working .
+predictions: entailment
+probs: entailment:0.970217943192 neutral:0.0276905074716 contradiction:0.00209154444747
+=====================
+Truth label: contradiction
+sentence1: old man crafting something in his workshop .
+sentence2: an old man is snoring .
+predictions: contradiction
+probs: entailment:0.000664185266942 neutral:0.0250542480499 contradiction:0.974281549454
+=====================
+Truth label: contradiction
+sentence1: two hikers rest on a snow-covered mountain .
+sentence2: people sunbathe on a beach .
+predictions: contradiction
+probs: entailment:0.000402476318413 neutral:0.00268014613539 contradiction:0.996917366982
+=====================
+Truth label: entailment
+sentence1: a surgeon is performing an open surgery .
+sentence2: a doctor is doing surgery .
+predictions: entailment
+probs: entailment:0.972681999207 neutral:0.0202128756791 contradiction:0.00710514141247
+=====================
+Truth label: entailment
+sentence1: a woman is cleaning an outdoor pool .
+sentence2: there is a pool outside .
+predictions: entailment
+probs: entailment:0.984772026539 neutral:0.0140464557335 contradiction:0.00118162145372
+=====================
+Truth label: contradiction
+sentence1: group of children listening to security guard .
+sentence2: the children are sleep outside .
+predictions: contradiction
+probs: entailment:0.001055458677 neutral:0.0239616334438 contradiction:0.974982917309
+=====================
+Truth label: contradiction
+sentence1: a boy wearing blue jeans is skateboarding .
+sentence2: a boy sleeps in a car
+predictions: contradiction
+probs: entailment:0.000370072724763 neutral:0.0028646546416 contradiction:0.996765255928
+=====================
+Truth label: entailment
+sentence1: a street scene of people on scooters .
+sentence2: there are multiple people present .
+predictions: entailment
+probs: entailment:0.959222614765 neutral:0.0365185812116 contradiction:0.00425874162465
+=====================
+Truth label: neutral
+sentence1: people crowded around toys on a table .
+sentence2: people are looking at something .
+predictions: entailment
+probs: entailment:0.647364914417 neutral:0.314196527004 contradiction:0.0384385436773
+=====================
+Truth label: entailment
+sentence1: three children are locked in a cage .
+sentence2: three children are trapped together .
+predictions: neutral
+probs: entailment:0.442579597235 neutral:0.490331053734 contradiction:0.0670893490314
+=====================
+Truth label: neutral
+sentence1: three children are locked in a cage .
+sentence2: the children are all boys .
+predictions: neutral
+probs: entailment:0.00385021069087 neutral:0.993012726307 contradiction:0.00313713680953
+=====================
+Truth label: contradiction
+sentence1: some people are playing ping - pong .
+sentence2: some people are playing donkey kong
+predictions: contradiction
+probs: entailment:0.00257140630856 neutral:0.0629538521171 contradiction:0.934474766254
+=====================
+Truth label: neutral
+sentence1: some people are playing ping - pong .
+sentence2: some people are playing professional ping-pong
+predictions: neutral
+probs: entailment:0.00463736150414 neutral:0.987706005573 contradiction:0.00765659660101
+=====================
+Truth label: entailment
+sentence1: a cabin shot of a very crowded airplane
+sentence2: the airplane is quite crowded .
+predictions: entailment
+probs: entailment:0.966690540314 neutral:0.0287119541317 contradiction:0.00459752604365
+=====================
+Truth label: contradiction
+sentence1: a couple of friends have a drink .
+sentence2: two women are swimming underwater .
+predictions: contradiction
+probs: entailment:0.000396515592001 neutral:0.00285458168946 contradiction:0.996748924255
+=====================
+Truth label: entailment
+sentence1: a woman is cutting something with scissors .
+sentence2: a woman uses a tool .
+predictions: entailment
+probs: entailment:0.906288683414 neutral:0.0879870057106 contradiction:0.00572431925684
+=====================
+Truth label: entailment
+sentence1: two boys laying tile in a bathroom .
+sentence2: some boys repair a bathroom .
+predictions: neutral
+probs: entailment:0.0805556625128 neutral:0.892926156521 contradiction:0.0265182126313
+=====================
+Truth label: entailment
+sentence1: a race car sits in the pits .
+sentence2: the car is not moving .
+predictions: entailment
+probs: entailment:0.406327426434 neutral:0.301383525133 contradiction:0.292289018631
+=====================
+Truth label: contradiction
+sentence1: a race car sits in the pits .
+sentence2: the car is going fast .
+predictions: neutral
+probs: entailment:0.0848765820265 neutral:0.853736817837 contradiction:0.0613866373897
+=====================
+Truth label: neutral
+sentence1: a race car sits in the pits .
+sentence2: the car is being repaired .
+predictions: contradiction
+probs: entailment:0.00779890315607 neutral:0.243814393878 contradiction:0.74838668108
+=====================
+Truth label: contradiction
+sentence1: two ladies looking for bread to purchase .
+sentence2: the women are eating bread .
+predictions: contradiction
+probs: entailment:0.0198682192713 neutral:0.0357917547226 contradiction:0.944339990616
+=====================
+Truth label: entailment
+sentence1: a woman wearing sunglasses holds two newspapers .
+sentence2: a person is wearing glasses .
+predictions: entailment
+probs: entailment:0.985255360603 neutral:0.0134739736095 contradiction:0.0012706554262
+=====================
+Truth label: entailment
+sentence1: three young indian children play wiffle ball .
+sentence2: three children play wiffle ball .
+predictions: entailment
+probs: entailment:0.990792632103 neutral:0.00789549108595 contradiction:0.00131185597274
+=====================
+Truth label: entailment
+sentence1: three young indian children play wiffle ball .
+sentence2: three persons play some game .
+predictions: entailment
+probs: entailment:0.818509757519 neutral:0.0543310195208 contradiction:0.127159133554
+=====================
+Truth label: contradiction
+sentence1: a girl swings high in the air .
+sentence2: a girl is laying in the pool
+predictions: contradiction
+probs: entailment:0.000369691406377 neutral:0.00287448056042 contradiction:0.99675577879
+=====================
+Truth label: contradiction
+sentence1: a long-beaked bird in mid - flight .
+sentence2: a rat running on a wheel .
+predictions: contradiction
+probs: entailment:0.000512086320668 neutral:0.0029249060899 contradiction:0.996563017368
+=====================
+Truth label: neutral
+sentence1: a young boy playing in the grass .
+sentence2: the boy is playing make believe .
+predictions: neutral
+probs: entailment:0.0675485134125 neutral:0.919885396957 contradiction:0.0125660775229
+=====================
+Truth label: contradiction
+sentence1: a young boy playing in the grass .
+sentence2: the boy is in the sand .
+predictions: contradiction
+probs: entailment:0.00107075693086 neutral:0.00291690579616 contradiction:0.996012330055
+=====================
+Truth label: neutral
+sentence1: people are throwing tomatoes at each other .
+sentence2: the men are covered in tomatoes .
+predictions: neutral
+probs: entailment:0.106372155249 neutral:0.873568356037 contradiction:0.0200595222414
+=====================
+Truth label: neutral
+sentence1: a man waterskies with a life jacket .
+sentence2: a lifeguard races across the water .
+predictions: contradiction
+probs: entailment:0.00344726466574 neutral:0.0395405218005 contradiction:0.957012176514
+=====================
+Truth label: neutral
+sentence1: a man waterskies with a life jacket .
+sentence2: the man is enjoying the ocean .
+predictions: contradiction
+probs: entailment:0.00361711811274 neutral:0.185499921441 contradiction:0.810882925987
+=====================
+Truth label: contradiction
+sentence1: an older gentleman speaking at a podium .
+sentence2: a little girl in a spelling bee
+predictions: contradiction
+probs: entailment:0.000374309107428 neutral:0.00283260294236 contradiction:0.996793091297
+=====================
+Truth label: neutral
+sentence1: an older gentleman speaking at a podium .
+sentence2: the college dean giving the graduation speech
+predictions: neutral
+probs: entailment:0.00843837391585 neutral:0.963858067989 contradiction:0.0277036577463
+=====================
+Truth label: contradiction
+sentence1: four guys with guns and army gear .
+sentence2: the four guys are playing hopscotch .
+predictions: contradiction
+probs: entailment:0.000614230404608 neutral:0.0171988755465 contradiction:0.98218691349
+=====================
+Truth label: contradiction
+sentence1: a little girl sitting in a seat .
+sentence2: she is standing on the seat .
+predictions: contradiction
+probs: entailment:0.00587990460917 neutral:0.0157570261508 contradiction:0.978363037109
+=====================
+Truth label: entailment
+sentence1: a man jumping sideways in the ocean .
+sentence2: a man jumps in the ocean .
+predictions: entailment
+probs: entailment:0.970865726471 neutral:0.0174563769251 contradiction:0.0116779301316
+=====================
+Truth label: entailment
+sentence1: two women with badges are watching something .
+sentence2: two people are looking at something .
+predictions: entailment
+probs: entailment:0.979314684868 neutral:0.0193360578269 contradiction:0.00134919607081
+=====================
+Truth label: neutral
+sentence1: a girl in red dividing colored tabs .
+sentence2: girl is preparing for next semester .
+predictions: neutral
+probs: entailment:0.00348663562909 neutral:0.979126811028 contradiction:0.0173865221441
+=====================
+Truth label: contradiction
+sentence1: a girl in red dividing colored tabs .
+sentence2: girl in blue chewing on paper .
+predictions: contradiction
+probs: entailment:0.000424729805673 neutral:0.00281743216328 contradiction:0.996757805347
+=====================
+Truth label: entailment
+sentence1: a girl in red dividing colored tabs .
+sentence2: girl in red dividing colored tabs .
+predictions: entailment
+probs: entailment:0.98394036293 neutral:0.014465241693 contradiction:0.00159444171004
+=====================
+Truth label: entailment
+sentence1: three people are kayaking in dark waters .
+sentence2: three people are in a boat .
+predictions: entailment
+probs: entailment:0.812138438225 neutral:0.0843803882599 contradiction:0.103481210768
+=====================
+Truth label: entailment
+sentence1: a woman building herself a sand castle .
+sentence2: a women is making a sand castle
+predictions: entailment
+probs: entailment:0.723645269871 neutral:0.143379881978 contradiction:0.132974863052
+=====================
+Truth label: contradiction
+sentence1: a woman building herself a sand castle .
+sentence2: the women is playing in the snow
+predictions: contradiction
+probs: entailment:0.000468888349133 neutral:0.00714574987069 contradiction:0.992385387421
+=====================
+Truth label: neutral
+sentence1: a man on a scenic canoe trip .
+sentence2: a man is enjoying his trip .
+predictions: neutral
+probs: entailment:0.328001707792 neutral:0.666212618351 contradiction:0.00578566081822
+=====================
+Truth label: contradiction
+sentence1: a man on a scenic canoe trip .
+sentence2: no one is on a canoe .
+predictions: contradiction
+probs: entailment:0.00140740035567 neutral:0.0163109190762 contradiction:0.982281684875
+=====================
+Truth label: entailment
+sentence1: a man on a scenic canoe trip .
+sentence2: a man is on a canoe .
+predictions: entailment
+probs: entailment:0.977460503578 neutral:0.0206809621304 contradiction:0.00185855664313
+=====================
+Truth label: entailment
+sentence1: woman reading a book in a laundry room
+sentence2: a woman is reading a book .
+predictions: entailment
+probs: entailment:0.977479398251 neutral:0.0206249952316 contradiction:0.00189560977742
+=====================
+Truth label: entailment
+sentence1: two dogs run around inside a fence .
+sentence2: two dogs are inside a fence .
+predictions: entailment
+probs: entailment:0.979369938374 neutral:0.0162418596447 contradiction:0.00438816146925
+=====================
+Truth label: contradiction
+sentence1: two dogs run around inside a fence .
+sentence2: two dogs sleep inside a fence .
+predictions: contradiction
+probs: entailment:0.00172373605892 neutral:0.00783289689571 contradiction:0.990443408489
+=====================
+Truth label: contradiction
+sentence1: a korean gentlemen kicks up his leg .
+sentence2: a person stands on two feet .
+predictions: contradiction
+probs: entailment:0.205295339227 neutral:0.0370680168271 contradiction:0.757636606693
+=====================
+Truth label: contradiction
+sentence1: people are working with some white pipes .
+sentence2: people are ruining the red pipes .
+predictions: contradiction
+probs: entailment:0.00171600142494 neutral:0.0327841341496 contradiction:0.965499937534
+=====================
+Truth label: contradiction
+sentence1: a girl wearing makeup playing a bass .
+sentence2: a girl is playing the violin .
+predictions: contradiction
+probs: entailment:0.000739194976632 neutral:0.00312698865309 contradiction:0.996133804321
+=====================
+Truth label: contradiction
+sentence1: three people are canoeing in a stream .
+sentence2: there are people indoors watching others canoe
+predictions: contradiction
+probs: entailment:0.00405856501311 neutral:0.026506414637 contradiction:0.969434976578
+=====================
+Truth label: contradiction
+sentence1: a woman holding roses while she waits .
+sentence2: this lady is flying a jet pack
+predictions: contradiction
+probs: entailment:0.000377142772777 neutral:0.00303344172426 contradiction:0.996589422226
+=====================
+Truth label: neutral
+sentence1: a nun is taking a picture outside .
+sentence2: a nun is taking a selfie .
+predictions: neutral
+probs: entailment:0.0392093919218 neutral:0.91386282444 contradiction:0.0469278134406
+=====================
+Truth label: neutral
+sentence1: the person in black t-shirt is sitting .
+sentence2: the man is attending a concert .
+predictions: neutral
+probs: entailment:0.0050030387938 neutral:0.763862073421 contradiction:0.231134846807
+=====================
+Truth label: contradiction
+sentence1: the person in black t-shirt is sitting .
+sentence2: the boy is taking a bath .
+predictions: contradiction
+probs: entailment:0.000397820258513 neutral:0.00366609822959 contradiction:0.99593603611
+=====================
+Truth label: contradiction
+sentence1: man playing golf indoors with coat on .
+sentence2: a man is playing football indoors .
+predictions: contradiction
+probs: entailment:0.00121042272076 neutral:0.00392163451761 contradiction:0.994867920876
+=====================
+Truth label: entailment
+sentence1: couple watching the moon on a bridge .
+sentence2: a couple is watching the moon .
+predictions: entailment
+probs: entailment:0.981762528419 neutral:0.0154501460493 contradiction:0.00278736418113
+=====================
+Truth label: contradiction
+sentence1: couple watching the moon on a bridge .
+sentence2: the couple is watching the sun .
+predictions: contradiction
+probs: entailment:0.00763254519552 neutral:0.015748552978 contradiction:0.976618826389
+=====================
+Truth label: contradiction
+sentence1: gymnast does a flip on blue flooring .
+sentence2: an obese person sits on the couch
+predictions: contradiction
+probs: entailment:0.000544869049918 neutral:0.00322078820318 contradiction:0.996234357357
+=====================
+Truth label: entailment
+sentence1: a husky and a black cat nuzzling .
+sentence2: a dog and cat are friendly .
+predictions: entailment
+probs: entailment:0.686865985394 neutral:0.140027552843 contradiction:0.173106402159
+=====================
+Truth label: contradiction
+sentence1: two marathon runners running through a forest .
+sentence2: the runners are on the beach .
+predictions: contradiction
+probs: entailment:0.000839523621835 neutral:0.00350362737663 contradiction:0.995656847954
+=====================
+Truth label: entailment
+sentence1: two marathon runners running through a forest .
+sentence2: there are people in the forest .
+predictions: entailment
+probs: entailment:0.942181587219 neutral:0.0506208240986 contradiction:0.00719763897359
+=====================
+Truth label: contradiction
+sentence1: two people are surfing in the ocean .
+sentence2: these people are in the desert .
+predictions: contradiction
+probs: entailment:0.000560046755709 neutral:0.00279572675936 contradiction:0.996644258499
+=====================
+Truth label: entailment
+sentence1: a man cooking food on the stove .
+sentence2: a man is making hot food .
+predictions: entailment
+probs: entailment:0.696441113949 neutral:0.296878546476 contradiction:0.00668030185625
+=====================
+Truth label: contradiction
+sentence1: the band prepares for the next song .
+sentence2: there is only one person present .
+predictions: contradiction
+probs: entailment:0.00667092483491 neutral:0.0277427416295 contradiction:0.965586364269
+=====================
+Truth label: contradiction
+sentence1: two people are in a green forest .
+sentence2: the people are in the arctic .
+predictions: contradiction
+probs: entailment:0.000885301851667 neutral:0.0312318746001 contradiction:0.967882871628
+=====================
+Truth label: neutral
+sentence1: man with short hair moves wooden structure .
+sentence2: the man moves the wooden post .
+predictions: entailment
+probs: entailment:0.7923361063 neutral:0.198285117745 contradiction:0.00937880016863
+=====================
+Truth label: contradiction
+sentence1: man with short hair moves wooden structure .
+sentence2: the dog walks to the fence .
+predictions: contradiction
+probs: entailment:0.000476968998555 neutral:0.00563933467492 contradiction:0.993883669376
+=====================
+Truth label: neutral
+sentence1: man with short hair moves wooden structure .
+sentence2: the man fixes the wooden fence .
+predictions: neutral
+probs: entailment:0.0123521117494 neutral:0.96546959877 contradiction:0.0221782755107
+=====================
+Truth label: contradiction
+sentence1: soldier watches as a train zooms by .
+sentence2: soldier is sleeping in his bunk .
+predictions: contradiction
+probs: entailment:0.000379488570616 neutral:0.00281874020584 contradiction:0.996801733971
+=====================
+Truth label: contradiction
+sentence1: a white cat sits on a wall .
+sentence2: the cat is on its bed .
+predictions: contradiction
+probs: entailment:0.00119111558888 neutral:0.00603434443474 contradiction:0.992774486542
+=====================
+Truth label: entailment
+sentence1: a guy pointing at a giant blackberry .
+sentence2: a man near a blackberry display .
+predictions: entailment
+probs: entailment:0.928816795349 neutral:0.0680613815784 contradiction:0.00312189967372
+=====================
+Truth label: contradiction
+sentence1: three men sit on a bench outside .
+sentence2: three man run from the police .
+predictions: contradiction
+probs: entailment:0.000451973697636 neutral:0.0148979676887 contradiction:0.984650075436
+=====================
+Truth label: entailment
+sentence1: a group of people are watching something .
+sentence2: a group of people look onward .
+predictions: entailment
+probs: entailment:0.818614959717 neutral:0.150672078133 contradiction:0.0307129081339
+=====================
+Truth label: contradiction
+sentence1: a cleaning women looking into a mall trashcan
+sentence2: the woman found a humean finger .
+predictions: neutral
+probs: entailment:0.041845023632 neutral:0.667943418026 contradiction:0.290211498737
+=====================
+Truth label: contradiction
+sentence1: a cleaning women looking into a mall trashcan
+sentence2: the woman is in the bathroom .
+predictions: contradiction
+probs: entailment:0.013311387971 neutral:0.0175734199584 contradiction:0.969115197659
+=====================
+Truth label: entailment
+sentence1: a soccer game with multiple males playing .
+sentence2: some men are playing a sport .
+predictions: entailment
+probs: entailment:0.957350313663 neutral:0.0402890816331 contradiction:0.00236052949913
+=====================
+Truth label: entailment
+sentence1: black greyhound dog racing down a track .
+sentence2: the dog is on the track .
+predictions: entailment
+probs: entailment:0.966799080372 neutral:0.0306407194585 contradiction:0.00256020296365
+=====================
+Truth label: entailment
+sentence1: black greyhound dog racing down a track .
+sentence2: the dog is in a race .
+predictions: neutral
+probs: entailment:0.399376183748 neutral:0.596832633018 contradiction:0.00379117415287
+=====================
+Truth label: entailment
+sentence1: a little girl plays with a faucet .
+sentence2: a girl plays with a faucet .
+predictions: entailment
+probs: entailment:0.990942656994 neutral:0.00730333896354 contradiction:0.0017539432738
+=====================
+Truth label: entailment
+sentence1: a woman prepares to strike a volleyball .
+sentence2: the woman is near the volleyball .
+predictions: entailment
+probs: entailment:0.958179354668 neutral:0.035692345351 contradiction:0.0061282957904
+=====================
+Truth label: neutral
+sentence1: a woman prepares to strike a volleyball .
+sentence2: the woman is at the beach .
+predictions: neutral
+probs: entailment:0.0255223568529 neutral:0.839349210262 contradiction:0.135128468275
+=====================
+Truth label: neutral
+sentence1: three people loading or unloading their car .
+sentence2: three people loading items for work .
+predictions: entailment
+probs: entailment:0.54669713974 neutral:0.433231085539 contradiction:0.0200717449188
+=====================
+Truth label: entailment
+sentence1: man in a blue shirt practicing karate .
+sentence2: there is someone doing martial arts .
+predictions: entailment
+probs: entailment:0.925167322159 neutral:0.0738322883844 contradiction:0.00100029224996
+=====================
+Truth label: contradiction
+sentence1: man plays electronic drum set in band .
+sentence2: the man is playing a guitar .
+predictions: contradiction
+probs: entailment:0.000631415052339 neutral:0.00342211825773 contradiction:0.995946466923
+=====================
+Truth label: entailment
+sentence1: people are pulling a big green tractor .
+sentence2: there are people pulling a tractor .
+predictions: entailment
+probs: entailment:0.988614916801 neutral:0.00913583673537 contradiction:0.00224920269102
+=====================
+Truth label: contradiction
+sentence1: people are pulling a big green tractor .
+sentence2: the tractor is small and red .
+predictions: contradiction
+probs: entailment:0.000706243736204 neutral:0.00800903979689 contradiction:0.99128472805
+=====================
+Truth label: entailment
+sentence1: a man in a restaurant having lunch .
+sentence2: the man is at a restaurant .
+predictions: entailment
+probs: entailment:0.990139126778 neutral:0.00777485547587 contradiction:0.00208602659404
+=====================
+Truth label: contradiction
+sentence1: a man cutting a woman 's hair .
+sentence2: a guy cooking a grilled cheese .
+predictions: contradiction
+probs: entailment:0.000401408004109 neutral:0.00999018829316 contradiction:0.989608466625
+=====================
+Truth label: entailment
+sentence1: a man cutting a woman 's hair .
+sentence2: a guy snipping a ladys hair .
+predictions: entailment
+probs: entailment:0.832588672638 neutral:0.0444531217217 contradiction:0.122958242893
+=====================
+Truth label: neutral
+sentence1: group of guys sitting in a circle .
+sentence2: there are no females around them .
+predictions: entailment
+probs: entailment:0.5022803545 neutral:0.0262750182301 contradiction:0.471444696188
+=====================
+Truth label: entailment
+sentence1: a baseball player sliding toward second base .
+sentence2: a player sliding toward second base .
+predictions: entailment
+probs: entailment:0.985543727875 neutral:0.0123654361814 contradiction:0.00209093652666
+=====================
+Truth label: contradiction
+sentence1: a young boy swinging on a swing .
+sentence2: little boy plays a video game .
+predictions: contradiction
+probs: entailment:0.000735367531888 neutral:0.00320341088809 contradiction:0.996061146259
+=====================
+Truth label: entailment
+sentence1: a small dog wearing a denim miniskirt .
+sentence2: a dog is wearing a skirt .
+predictions: entailment
+probs: entailment:0.790489137173 neutral:0.0962924733758 contradiction:0.113218404353
+=====================
+Truth label: entailment
+sentence1: two german sheperds snarling at each other .
+sentence2: two animals are threatening each other .
+predictions: entailment
+probs: entailment:0.927428662777 neutral:0.0670705586672 contradiction:0.00550084654242
+=====================
+Truth label: contradiction
+sentence1: a running back running with the football .
+sentence2: the running back is in class .
+predictions: contradiction
+probs: entailment:0.00217495951802 neutral:0.101468279958 contradiction:0.896356701851
+=====================
