@@ -21,4 +21,8 @@ python train.py --config_path configs/snli.sample.config
 ```
 python src/Decoder.py --in_path data/snli/dev.tsv --word_vec_path data/snli/wordvec.txt --out_path result.txt --model_prefix logs/SentenceMatch.snli
 ```
+![image1](test_img/entail.png)
+![image1](test_img/cont.png)
+![image1](test_img/nu.png)
+
 Test Video [link](https://www.linkedin.com/posts/saiful-islam-907128ba_finding-semantics-textual-similarity-between-activity-6629800835121537024-SIC7)
