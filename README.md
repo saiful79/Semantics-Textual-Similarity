@@ -1,4 +1,4 @@
-# Sementics-Textual-Similarity
+# Semantics-Textual-Similarity
 The semantics textual similarity means textual similar between two sentence such as ``` i am a good boy``` and ``` i am not a bad boy``` those two sentence are same meaning. so i try to find out those sentences are same meaning or not. i use public open souces data that have three class category that are neutral,contradiction and entailment. 
 
 # Requirements
